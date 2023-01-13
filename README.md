@@ -22,8 +22,8 @@
   
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicec0874203&show_icons=true&locale=en&layout=compact" alt="alicec0874203" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicec0874203&show_icons=true&locale=en&theme=radical&count_private=true" alt="alicec0874203" /> </p>
+<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alicec0874203&show_icons=true&locale=en&layout=compact" alt="alicec0874203" /> 
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alicec0874203&show_icons=true&locale=en&theme=radical&count_private=true" alt="alicec0874203" /> </p>
 
 
 
