@@ -1,46 +1,50 @@
-### Hi there 👋
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello there!, I am Alice <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091"></h1>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Alice</h1>
-<h3 align="center">Mobile Developer</h3>
+<img align="right" src="https://github.com/AliceC0874203/AliceC0874203/blob/main/Gif/CodingGirl.gif" alt="Coding Girl Cat GIF">
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  
-</p>
-
-<p align="center"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=alicec0874203&show_icons=true&locale=en&layout=compact" alt="alicec0874203" /> 
-  <br>
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alicec0874203&show_icons=true&locale=en&theme=radical&count_private=true" alt="alicec0874203" /> </p>
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AliceC0874203/)](https://github.com/AliceC0874203/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pensp/)](https://www.linkedin.com/in/alicec0874203/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alice.spwt@gmail.com)](mailto:alice.spwt@gmail.com)
 
 
 
+- 🌐 Portfolio website: [Portfolio](https://alicec0874203.github.io/)
+- ⚡ Fun fact: The best way to debug is by taking a break and coming back to it later. 🤓
 
+💻 **Things I'm passionate about** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Mobile Development ✍️
+- Machine Learning 🧐
+- Robotics & IoT 🤖 
 
-<!--
-**AliceC0874203/AliceC0874203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <img align="right" width=420 height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alicec0874203&show_icons=true&locale=en&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="alicec0874203" />
+</a>
 
-Here are some ideas to get you started:
+    
+🛠**Some Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
+![Objective-C](https://img.shields.io/badge/-ObjectiveC-000000?style=flat&logo=apple)
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
+
+<div align="center">
+    <h3 align="center">Give some &nbsp;⭐️&nbsp; to my repos if you like them!</h3>
+</div>
+
