@@ -29,13 +29,6 @@
 ![Objective-C](https://img.shields.io/badge/-ObjectiveC-000000?style=flat&logo=apple)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
@@ -43,6 +36,14 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+
 
 <div align="center">
     <h3 align="center">Give some <img src="https://emojis.slackmojis.com/emojis/images/1643515416/14355/pink-star.gif" height="30px"> to my repos if you like them!</h3>
