@@ -5,7 +5,7 @@
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/AliceC0874203/)](https://github.com/AliceC0874203/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pensp/)](https://www.linkedin.com/in/alicec0874203/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pensp/)](https://www.linkedin.com/in/pensp/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alice.spwt@gmail.com)](mailto:alice.spwt@gmail.com)
 
 
