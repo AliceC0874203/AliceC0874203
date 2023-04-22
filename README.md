@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello there!, I am Alice <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif?1643516091"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello there!, I am Alice <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif"></h1>
 </h1>
 
 <img align="right" src="https://github.com/AliceC0874203/AliceC0874203/blob/main/Gif/CodingGirl.gif" alt="Coding Girl Cat GIF">
@@ -13,7 +13,7 @@
 - 🌐 Portfolio website: [Portfolio](https://alicec0874203.github.io/)
 - ⚡ Fun fact: The best way to debug is by taking a break and coming back to it later. 🤓
 
-💻 **Things I'm passionate about** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+💻 **Things I'm passionate about** <img src="https://emojis.slackmojis.com/emojis/images/1660415423/60771/blue-heart.gif" width="30"> 
 - Mobile Development ✍️
 - Machine Learning 🧐
 - Robotics & IoT 🤖 
@@ -23,7 +23,7 @@
 </a>
 
     
-🛠**Some Tech Stack**
+🛠**Some Tech Stack** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 ![Objective-C](https://img.shields.io/badge/-ObjectiveC-000000?style=flat&logo=apple)
@@ -45,6 +45,7 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
 
 <div align="center">
-    <h3 align="center">Give some &nbsp;⭐️&nbsp; to my repos if you like them!</h3>
+    <h3 align="center">Give some <img src="https://emojis.slackmojis.com/emojis/images/1643515416/14355/pink-star.gif" height="30px"> to my repos if you like them!</h3>
+  
 </div>
 
