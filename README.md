@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello there!, I am Alice <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif"></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hello there!, I am Alice <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1643516091/21142/meow_bongotap.gif"></h1>
 </h1>
 
 <img align="right" src="https://github.com/AliceC0874203/AliceC0874203/blob/main/Gif/CodingGirl.gif" alt="Coding Girl Cat GIF">
