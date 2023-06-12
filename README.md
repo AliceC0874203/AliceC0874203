@@ -43,7 +43,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
+![](https://komarev.com/ghpvc/?username=AliceC0874203&style=flat&color=000000&label=👋)
 
 <div align="center">
     <h3 align="center">Give some <img src="https://emojis.slackmojis.com/emojis/images/1643515416/14355/pink-star.gif" height="30px"> to my repos if you like them!</h3>
