@@ -46,7 +46,7 @@
 ![](https://komarev.com/ghpvc/?username=AliceC0874203&style=flat&color=000000&label=👋)
 
 <div align="center">
-    <h3 align="center">Give some <img src="https://emojis.slackmojis.com/emojis/images/1643515416/14355/pink-star.gif" height="30px"> to my repos if you like them!</h3>
+    Give me some <img src="https://emojis.slackmojis.com/emojis/images/1643515416/14355/pink-star.gif" height="30px"> to my repos if you like them!
   
 </div>
 
